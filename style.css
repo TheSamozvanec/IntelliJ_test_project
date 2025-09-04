@@ -1,0 +1,10 @@
+body{
+	user-select: none;
+	background: whitesmoke;
+}
+
+canvas{
+	display: block;
+	border: 5px ridge rgb(12,187,184);
+	box-shadow: 5px 7px 5px 2px;
+}
