@@ -2,7 +2,9 @@ body{
 	user-select: none;
 	background: whitesmoke;
 }
-
+h1{
+	text-align:center;
+}
 canvas{
 	display: block;
 	border: 5px ridge rgb(12,187,184);
